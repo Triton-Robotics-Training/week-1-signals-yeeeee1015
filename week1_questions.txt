@@ -1,6 +1,8 @@
 Question 1: Explain the difference between analog and digital signals.
+Digital signals are discrete values, but analog signals have a continuous set of values.
 
 Question 2: Give an example of something that uses digital signals and how it uses it.
+Limit switches have only a state of whether or not they are being pressed, which is perfect for digital signals.
 
 Question 3: Give an example of something that uses analog signals and how it uses it.
-
+Servo motors need analog signals. The PWM drives the servo either forward or backward, at different speeds.
